@@ -14,9 +14,6 @@ public function hello(){
 		echo $data;
 		
 	}
-	public function index1(){
-		
-	}
 	public function index() {
 	
 		$Demo  = new Model('select_menu'); // 实例化模型类
